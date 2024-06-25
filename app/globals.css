@@ -8,6 +8,7 @@
 
 body {
   background-color: #add8e6;
+  height: 100%;
 }
 
 @layer components {

@@ -45,12 +45,12 @@
     "href": "/resume"
   },
   {
-    "id": "video",
-    "title": "Video",
+    "id": "thank-you",
+    "title": "Thank You",
     "image": {
       "source": "https://res.cloudinary.com/filemancentral/image/upload/v1719028473/portfolio/personal-website/picture_izo3nw.png",
       "altText": "smiley face portrait"
     },
-    "href": "/video"
+    "href": "/thank-you"
   }
 ]
