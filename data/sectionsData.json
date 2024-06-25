@@ -1,0 +1,56 @@
+[
+  {
+    "id": "about-me",
+    "title": "About Me",
+    "image": {
+      "source": "https://res.cloudinary.com/filemancentral/image/upload/v1719028472/portfolio/personal-website/world_a6zap4.png",
+      "altText": "blue globe with grid pattern"
+    },
+    "href": "/about-me"
+  },
+  {
+    "id": "contact",
+    "title": "Contact",
+    "image": {
+      "source": "https://res.cloudinary.com/filemancentral/image/upload/v1719028473/portfolio/personal-website/contact_seyzdx.png",
+      "altText": "Open envelope with letter inside"
+    },
+    "href": "/contact-me"
+  },
+  {
+    "id": "tech-stack",
+    "title": "Tech Stack",
+    "image": {
+      "source": "https://res.cloudinary.com/filemancentral/image/upload/v1719028474/portfolio/personal-website/computer_ph1npf.png",
+      "altText": "retro computer with smiley face"
+    },
+    "href": "/tech-stack"
+  },
+  {
+    "id": "projects",
+    "title": "Projects",
+    "image": {
+      "source": "https://res.cloudinary.com/filemancentral/image/upload/v1719028474/portfolio/personal-website/files_l7br2u.png",
+      "altText": "manilla folder with files inside"
+    },
+    "href": "/projects"
+  },
+  {
+    "id": "resume",
+    "title": "Resume",
+    "image": {
+      "source": "https://res.cloudinary.com/filemancentral/image/upload/v1719028474/portfolio/personal-website/floppy_bzaimg.png",
+      "altText": "retro floppy disk"
+    },
+    "href": "/resume"
+  },
+  {
+    "id": "video",
+    "title": "Video",
+    "image": {
+      "source": "https://res.cloudinary.com/filemancentral/image/upload/v1719028473/portfolio/personal-website/picture_izo3nw.png",
+      "altText": "smiley face portrait"
+    },
+    "href": "/video"
+  }
+]

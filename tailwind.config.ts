@@ -7,12 +7,20 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-      },
+    backgroundImage: {
+      portrait:
+        "url('https://res.cloudinary.com/filemancentral/image/upload/v1719074160/portfolio/personal-website/about-me/face_iir6go.jpg')",
+    },
+    fontFamily: {
+      roboto: ["rob"],
+    },
+    colors: {
+      pink: "#F59097",
+      yellow: "#ebb436",
+      "light-gray": "#ebe1d8",
+      "light-blue": "#add8e6",
+      "dark-orange": "#eb6134",
+      "dark-blue": "#1d8ebf",
     },
   },
   plugins: [],
