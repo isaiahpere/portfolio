@@ -9,7 +9,7 @@ const roboto = Modak({ weight: ["400"], subsets: ["latin"] });
 
 const Navbar = () => {
   return (
-    <nav className="pt-4">
+    <nav className="pt-2">
       <ul className="w-full text-center">
         <li className={roboto.className}>
           <Link
@@ -23,12 +23,16 @@ const Navbar = () => {
               alt="anime portrait of Isaiah"
               width={50}
               height={50}
+              className="mb-1"
             />
             <p
               id="my-name"
-              className="stroke text-3xl leading-tight text-[#fff] stroke-[#000]"
+              className="stroke text-3xl leading-none text-[#fff] stroke-[#000]"
             >
-              Isaiah Pereira
+              Isaiah's
+            </p>
+            <p className="stroke text-4xl leading-none text-yellow">
+              Portfolio
             </p>
           </Link>
         </li>

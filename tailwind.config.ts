@@ -14,13 +14,15 @@ const config: Config = {
     fontFamily: {
       roboto: ["rob"],
     },
-    colors: {
-      pink: "#F59097",
-      yellow: "#ebb436",
-      "light-gray": "#ebe1d8",
-      "light-blue": "#add8e6",
-      "dark-orange": "#eb6134",
-      "dark-blue": "#1d8ebf",
+    extend: {
+      colors: {
+        pink: "#F59097",
+        yellow: "#ebb436",
+        "light-gray": "#ebe1d8",
+        "light-blue": "#add8e6",
+        "dark-orange": "#eb6134",
+        "dark-blue": "#1d8ebf",
+      },
     },
   },
   plugins: [],
